@@ -1,0 +1,11 @@
+beautifulsoup4==4.9.3
+google==3.0.0
+greenlet==1.1.0
+msgpack==1.0.2
+pony==0.7.14
+psutil==5.8.0
+psycopg2==2.8.6
+pynvim==0.4.3
+PySimpleGUI==4.41.2
+singleton-decorator==1.0.0
+soupsieve==2.2.1
